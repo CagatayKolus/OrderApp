@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="login_username_hint">Kullanıcı Adı</string>
+    <string name="login_password_hint">Şifre</string>
+    <string name="login_switch_remember_text">Beni Hatırla</string>
+    <string name="login_title">MARKETİM</string>
+    <string name="login_successful">Giriş başarılı</string>
+
+    <string name="login_failed">Giriş Başarısız!</string>
+    <string name="login_fields_empty">Gerekli Alanlar Boş Olamaz.</string>
+
+    <string name="page_title_login">Giriş</string>
+    <string name="page_title_orders">Siparişlerim</string>
+    <string name="currency">TL</string>
+    <string name="exit">Exit</string>
+    <string name="loading">Yükleniyor…</string>
+
+    <string name="dialog_exit_title">Çıkış</string>
+    <string name="dialog_exit_message">Çıkmak istediğinizden emin misiniz?</string>
+    <string name="dialog_exit_positive">Evet</string>
+    <string name="dialog_exit_negative">Hayır</string>
+
+    <string name="productStateGreen">Yolda</string>
+    <string name="productStateOrange">Hazırlanıyor</string>
+    <string name="productStateRed">Onay Bekliyor</string>
+</resources>
